@@ -54,5 +54,10 @@ Selecionar e adicionar duas instituições para facilitar futuras transações.
 1.9 Alterar informações de perfil: 
 Fazer a alteração de informações da conta (Endereço, número de telefone etc)
 
+###  Referências:
+PAYPAL. Disponível em: https://www.paypal.com. Acesso em: [26/09/2024].
 
+LAI OB. O que está por trás da história de sucesso do PayPal. Disponível em: https://laiob.com/blog/pt-br/o-que-esta-por-tras-da-historia-de-sucesso-do-paypal/. Acesso em: [27/09/2024].
+
+TECHTUDO. O que é e como funciona o PayPal. Disponível em: https://www.techtudo.com.br/dicas-e-tutoriais/2023/03/o-que-e-e-como-funciona-o-paypal-edsoftwares.ghtml. Acesso em: [30/09/2024].
 
