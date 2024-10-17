@@ -44,8 +44,8 @@
 |--------------|-------------|-----------------|-----------------------|-----------|
 | P1           |  4:24 min   |         0       |        1              | CONCLUIDO |
 | P2           |    6 min    |         1       |        0              | CONCLUIDO |
-| P3           | 6:00 min    |        0        |        1              | CONCLUIDO |
-| P4           |             |                 |                       |           |
+| P3           | 6:00 min    |         0       |        1              | CONCLUIDO |
+| P4           |  17 min     |         2       |        1              |  FALHOU   |
 
 ### Tarefa 2
 | Participante | Tempo gasto | Número de erros | Solicitações de ajuda | Resultado | 
@@ -134,4 +134,5 @@
 
 | Participante 4 |                 |                         |
 |----------------|-----------------|-------------------------|
-| **ID**         | **Descrição do Problema** | **Fator de Usabilidade** |
+| *ID*         | *Descrição do Problema* | *Fator de Usabilidade* |
+|     1          | Usuário encontrou dificuldades na criação de uma conta resultando em frustração e desistencia do teste. A aplicação fornecia pouco ou nenhum feedback em relação ao erro encontrado, tampouco apresentava alguma solução. |                         |
