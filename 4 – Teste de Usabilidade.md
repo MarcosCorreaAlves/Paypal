@@ -15,7 +15,9 @@
  [TERMO DE CONSENTIMENTO](https://github.com/Kaylanesoar/imagensIHC)
  
 •	Recrutamento dos participantes
+
 •	Instalação dos equipamentos
+
 •	Preparação do ambiente dos testes
 
 
