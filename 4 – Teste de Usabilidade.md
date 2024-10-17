@@ -104,7 +104,7 @@
 | **ID**         | **Descrição do Problema** | **Fator de Usabilidade** |
 |       2        | A atividade de adicionar uma conta bancária é muita trabalhosa, deixando o usuário incapaz de concluir essa atividade.| Prevenção de erros|
 |       5        | A opção Ferramentas do vendedor é muita discreta.| Facilidade de aprendizagem|
-|       7        | Favoritar instituições, é uma atividade muita difícil no Paypal, pois, sua mecânica é ineficiente e pouca intuitiva.| Efeciência de uso|
+|       7        | Favoritar instituições, é uma atividade muita difícil no Paypal, pois, sua mecânica é ineficiente e pouca intuitiva.| Eficiência de uso|
 
 
 | Participante 2 |                 |                         |
