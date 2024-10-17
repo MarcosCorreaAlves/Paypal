@@ -135,4 +135,4 @@
 | Participante 4 |                 |                         |
 |----------------|-----------------|-------------------------|
 | *ID*         | *Descrição do Problema* | *Fator de Usabilidade* |
-|     1          | Usuário encontrou dificuldades na criação de uma conta resultando em frustração e desistencia do teste. A aplicação fornecia pouco ou nenhum feedback em relação ao erro encontrado, tampouco apresentava alguma solução. |                         |
+|     1          | Usuário encontrou dificuldades na criação de uma conta resultando em frustração e desistencia do teste. A aplicação fornecia pouco ou nenhum feedback em relação ao erro encontrado, tampouco apresentava alguma solução. | Prevenção de erros |
