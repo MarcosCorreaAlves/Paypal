@@ -1,1 +1,6 @@
+ Desde o começo do trabalho, até o conclusão dele, avaliar o sistema Paypal se mostrou bastante difícil, mas também foi um trabalho bem interessante. Logo a distribuição das tarefas, o primeiro desafio a enfrentar foi a inspenção de usabilidade, onde tivemos que analisar o Paypal e encontrar erros de usabilidade de acordo com as 10 Heurísticas de Nilsen e especificar as severeidades, essa parte do trabalho confesso que foi bem longa, mas foi  concluida com sucesso.
+ 
+ Logo após isso, vieram os testes, onde tivemos que ir atrás de usários, para analisar como eles se saíam resolvendo algumas tarefas no paypal, que nossa equipe preparou. Essa parte foi bem divertida, teve momentos em que os usários ficavam perdidos, não encontravam a opção correta, no final responderam um questionário, entre outras. Isso nos ajudou bastanate a encontrar mais problemas dentro do aplicativo.
 
+ Essa trabalho contribui bastante para o desenvolvimento das minhas habilidades na área de Interação humano-computador. Fui capaz de encontrar problemas de usabilidade, não só no apicativo avaliado, mas também em outros aplicativos. Aprendi a usar o github, uma das plataformas mais utilizadas na área de gestão de projetos, e isso irá me ajudar muito durante minha carreira acadêmica.
+ 
