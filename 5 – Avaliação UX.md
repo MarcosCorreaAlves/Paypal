@@ -94,3 +94,38 @@ A análise das métricas revela que a experiência do usuário no seu site pode 
 
 
 ### 5.3 - 2° Etapa
+
+Após o teste de usabilidade ser finalizado, utilizamos a ferramenta UEQ inserindo os dados obtidos através do teste, obtendo os seguinte resultados:
+
+- **Data**
+
+<img src="https://github.com/itamarpereira08/imagensIHC/blob/main/dados.png" alt="Exemplo da Imagem" width="300">
+
+- **Transformed Data**
+
+<img src="https://github.com/itamarpereira08/imagensIHC/blob/main/DT.png" alt="Exemplo da Imagem" width="300">
+
+- **Results**
+
+<img src="https://github.com/itamarpereira08/imagensIHC/blob/main/Results.png" alt="Exemplo da Imagem" width="300">
+
+- **Confidence intervals**
+
+<img src="https://github.com/itamarpereira08/imagensIHC/blob/main/confidence_intervals.png" alt="Exemplo da Imagem" width="300">
+
+- **Scale Consistency**
+
+<img src="https://github.com/itamarpereira08/imagensIHC/blob/main/consistency.png" alt="Exemplo da Imagem" width="300">
+
+- **Benchmark**
+
+<img src="https://github.com/itamarpereira08/imagensIHC/blob/main/benchmark.png" alt="Exemplo da Imagem" width="300">
+
+- **Inconsistencies**
+
+<img src="https://github.com/itamarpereira08/imagensIHC/blob/main/inconsistencies.png" alt="Exemplo da Imagem" width="300">
+
+- **Conclusão**
+
+Foi concluído, de acordo com as respostas e reações dos usuários, que a aplicação analisada tem uma baixa qualidade e muitas falhas de usabilidade, causando frustração aos seus usuários. Em uma visão geral, analisando a 1° e a 2° etapa dessa avaliação, a aplicação necessita de melhorias tanto na parte de usabilidade quanto na parte de comunicabilidade.
+
