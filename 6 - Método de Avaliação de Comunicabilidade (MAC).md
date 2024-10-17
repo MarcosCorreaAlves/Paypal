@@ -2,7 +2,7 @@
 
 ### 6.1 -  Planejamento
 
-[TERMO DE CONSENTIMENTO](https://github.com/Kaylanesoar/comunicabilidade)
+[TERMO DE CONSENTIMENTO](https://github.com/itamarpereira08/imagensIHC/blob/main/TERMO.jpeg)
 
 **Método de Avaliação de Comunicabilidade (MAC)**:
 - Envolve a observação dos usuários durante a interação com o sistema em um ambiente controlado.
