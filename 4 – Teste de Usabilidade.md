@@ -12,7 +12,7 @@
 
  ### 4.2 - Preparação para o teste.
 
- [TERMO DE CONSENTIMENTO](https://github.com/Kaylanesoar/usabilidade)
+ [TERMO DE CONSENTIMENTO](https://github.com/itamarpereira08/imagensIHC/blob/main/TERMO.jpeg)
  
 •	Recrutamento dos participantes
 
