@@ -5,3 +5,5 @@
 
  Após analisar o aplicativo. O Paypal deve passar por atualização para corrigir erros e melhorar a usabilidade do seu sistema. 
 
+ A experiencia ajudará a evitar possiveis problematicas comuns em um projeto futuro, seja uma criação ou analisando algum projeto. Evitando erros, descartando ideias que não vão ser uteis para a usabilidade. Atualizando frequentimente as falhas no sistema para receber feedback positivos dos usuarios. Dos feedbacks negativos, será feita a avaliação, testes do sistema para uma nova versão ser atualizada sem erros. 
+
